@@ -1,3 +1,4 @@
 .terraform/
-azure_provider/.terraformterraform.tf
-intro/.terraformterraform.tf
+azure_provider/.terraform
+intro/.terrafor
+gcp_provider/.terraform
