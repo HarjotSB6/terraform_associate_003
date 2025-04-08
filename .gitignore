@@ -1,2 +1,3 @@
 .terraform/
-intro/.terraform
+azure_provider/.terraformterraform.tf
+intro/.terraformterraform.tf
