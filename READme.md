@@ -68,7 +68,7 @@ IaC enables code-based mutation and revisions with minimal changes.
 - **Sensibility**
 IaC helps avoid financial, reputational, and even life-threatening losses, especially in government and military infrastructure.
 
-![image.png](image%2032.png)
+![image.png](images/image%2032.png)
 
 **Summary of Provisioning, Deployment, and Orchestration**
 
@@ -119,8 +119,8 @@ Image Baking: Utilize tools like AWS Image Builder, HashiCorp Packer, or GCP Clo
 
 **GitOps Workflow** 
 
-![image.png](image%2033.png)
+![image.png](images/image%2033.png)
 
-![image.png](image%2034.png)
+![image.png](images/image%2034.png)
 
-![image.png](image%2035.png)
+![image.png](images/image%2035.png)
