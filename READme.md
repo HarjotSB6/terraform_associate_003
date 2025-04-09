@@ -30,9 +30,8 @@
     - **Cloud Deployment Manager** (Google Cloud)
     - **Terraform** (Supports multiple cloud providers)
     
-    ![image.png](image%2030.png)
     
-
+    
 ### **Imperative Approach** (Implicit)
 
 - Specifies steps to achieve the desired state.
@@ -45,8 +44,7 @@
     - **AWS CDK** (AWS, includes built-in best practices)
     - **Pulumi** (Supports AWS, Azure, GCP, Kubernetes)
     
-    ![image.png](image%2031.png)
-    
+      
 
 ### **Infrastructure Lifecycle**
 
